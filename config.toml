@@ -1,3 +1,9 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+#appendport = false
+#appendPort = false
+baseurl = "/"
+#baseURL = "/"
+relativeurls = true
 languageCode = "en-us"
+theme = "journal"
+builddrafts = true
 title = "My New Hugo Site"
